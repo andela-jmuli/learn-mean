@@ -1,0 +1,29 @@
+<p>
+  article works!
+</p>
+<div>
+  <div class="value">
+    {{ votes }}
+  </div>
+  <div class="label">
+    Points
+  </div>
+</div>
+
+<div>
+<a href="{{ link }}">
+  {{ title }}
+</a>
+<ul>
+  <li class="item">
+    <a href (click)="voteUp()">
+      <i> upvote </i>
+    </a>
+  </li>
+  <li class="item">
+    <a href (click)="voteDown()">
+      <i> downvote </i>
+    </a>
+  </li>
+</ul>
+</div>

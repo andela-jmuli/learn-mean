@@ -1,0 +1,22 @@
+{
+  "name": "typescript-exercises",
+  "version": "1.0.0",
+  "description": "Sample exercises for typesript level up",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-jmuli/learn-mean.git"
+  },
+  "author": "Joseph Muli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-jmuli/learn-mean/issues"
+  },
+  "homepage": "https://github.com/andela-jmuli/learn-mean#readme",
+  "dependencies": {
+    "typescript-collections": "^1.2.3"
+  }
+}
